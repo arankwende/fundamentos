@@ -6,7 +6,7 @@ En este repositorio se encuentran todas las consignas de los trabajos prácticos
 **Programa**
 -------------
 
- - [Unidad 1 -
+ - CLASE 1
 GitHub / HTML
 Como interpretar un diseño.
 Diseño (Photoshop vs Mockups) 
@@ -14,7 +14,7 @@ Estructura HTML
 Etiquetas semánticas HTML5
 
 
- - [Unidad 1 -
+ - CLASE 2
 HTML
 Textos, Heading
 Listas 
@@ -22,7 +22,7 @@ Enlaces
 Tablas
 Formularios 
 
- - [Unidad 1 -
+ - CLASE 3
 CSS 
 Historia
 Estructura
@@ -33,16 +33,11 @@ Fuentes, colores
 Recursos: Google Font, Ionicons
 Fondos y Bordes
 
-
-
-
-
 CLASE 4
 CSS 
 Modelo de cajas
 Posicionamiento
 Flexbox
-
 
 CLASE 5
 CSS 
@@ -79,13 +74,9 @@ Componentes
 Customizar Bootstrap
 Cómo pisar clases de bootstrap
 
-
-
 CLASE 10
 Bootstrap (jQuery)
 Componentes Jquery de Bootstrap
-
-
 
 CLASE 11
 Workshop
@@ -102,8 +93,6 @@ CSS
 Formularios
 Tablas
 
-
-
 CLASE 13
 Fundamentos Web 
 Validación
@@ -111,7 +100,6 @@ Navegadores
 Dominios y alojamiento
 Protocolo de transferencia de archivos
 Servicios alojados
-
 
 CLASE 14
 Proyecto final
