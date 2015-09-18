@@ -6,7 +6,7 @@ En este repositorio se encuentran todas las consignas de los trabajos prácticos
 **Programa**
 -------------
 
-- CLASE 1
+- [CLASE 1](https://github.com/CoderHouse/fundamentos/)
 	- GitHub / HTML
 	- Como interpretar un diseño.
 	- Diseño (Photoshop vs Mockups) 
@@ -14,7 +14,7 @@ En este repositorio se encuentran todas las consignas de los trabajos prácticos
 	- Etiquetas semánticas HTML5
 
 
-- CLASE 2
+- [CLASE 2](https://github.com/CoderHouse/fundamentos/)
 	- HTML
 	- Textos, Heading
 	- Listas 
@@ -22,7 +22,7 @@ En este repositorio se encuentran todas las consignas de los trabajos prácticos
 	- Tablas
 	- Formularios 
 
-- CLASE 3
+- [CLASE 3](https://github.com/CoderHouse/fundamentos/)
 	- CSS 
 	- Historia
 	- Estructura
@@ -33,27 +33,27 @@ En este repositorio se encuentran todas las consignas de los trabajos prácticos
 	- Recursos: Google Font, Ionicons
 	- Fondos y Bordes
 
-- CLASE 4
+- [CLASE 4](https://github.com/CoderHouse/fundamentos/)
 	- CSS 
 	- Modelo de cajas
 	- Posicionamiento
 	- Flexbox
 
-- CLASE 5
+- [CLASE 5](https://github.com/CoderHouse/fundamentos/)
 	- CSS 
 	- Gradientes CSS 
 	- Transiciones y Transformaciones
 	- Animaciones CSS 
 
-- CLASE 6
+- [CLASE 6](https://github.com/CoderHouse/fundamentos/)
 	- Responsive
 	- Mediaqueries
 
-- CLASE 7
+- [CLASE 7](https://github.com/CoderHouse/fundamentos/)
 	- Workshop
 	- Página personal
 
-- CLASE 8
+- [CLASE 8](https://github.com/CoderHouse/fundamentos/)
 	- SASS 
 	- Definición
 	- Instalación
@@ -64,7 +64,7 @@ En este repositorio se encuentran todas las consignas de los trabajos prácticos
 	- Extensiones a partir de un elemento 
 	- Operadores matemáticos 
 
-- CLASE 9
+- [CLASE 9](https://github.com/CoderHouse/fundamentos/)
 	- Bootstrap 
 	- Instalación / CDN
 	- Markup
@@ -74,14 +74,14 @@ En este repositorio se encuentran todas las consignas de los trabajos prácticos
 	- Customizar Bootstrap
 	- Cómo pisar clases de bootstrap
 
-- CLASE 10
+- [CLASE 10](https://github.com/CoderHouse/fundamentos/)
 	- Bootstrap (jQuery)
 	- Componentes Jquery de Bootstrap
 
-- CLASE 11
+- [CLASE 11](https://github.com/CoderHouse/fundamentos/)
 	- Workshop
 
-- CLASE 12
+- [CLASE 12](https://github.com/CoderHouse/fundamentos/)
 	- Accesibilidad 
 	- Visión
 	- Audición
@@ -93,7 +93,7 @@ En este repositorio se encuentran todas las consignas de los trabajos prácticos
 	- Formularios
 	- Tablas
 
-- CLASE 13
+- [CLASE 13](https://github.com/CoderHouse/fundamentos/)
 	- Fundamentos Web 
 	- Validación
 	- Navegadores 
@@ -101,5 +101,5 @@ En este repositorio se encuentran todas las consignas de los trabajos prácticos
 	- Protocolo de transferencia de archivos
 	- Servicios alojados
 
-- CLASE 14
+- [CLASE 14](https://github.com/CoderHouse/fundamentos/)
 	- Proyecto final
