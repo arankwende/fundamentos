@@ -1,8 +1,7 @@
-**Clase 1**
+Clase 1
 -------------
 
-**Programa**
--------------
+###Programa
 
 - GitHub / HTML
 	- Como interpretar un diseño.
@@ -10,5 +9,5 @@
 	- Estructura HTML
 	- Etiquetas semánticas HTML5
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/01-Github-HTML/TP)
