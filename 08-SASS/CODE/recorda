@@ -1,0 +1,7 @@
+Recordá que debes utilizar un servidor que sea capaz de transformar un archivo SASS a uno CSS y colocar el siguiente comando
+
+sass —watch A:B
+
+siendo A —> directorio de archivo sass
+
+siendo B —> directorio del archivo que llamas en tu html

@@ -6,9 +6,7 @@ Trabajo Práctico 2
 
 1.  Descripción:
 
-    -   Seguir las indicaciones del archivo mockup.png
-
-    -   Respetar la estructura semántica del TP1 y agregar los nuevos elementos html5 vistos en clase.
+    -   Respetar la estructura semántica del TP1 y agregar los nuevos elementos html5 vistos en clase
 
 2.  Objetivo:
 
@@ -21,8 +19,6 @@ Trabajo Práctico 2
     -   Indentar correctamente.
 
     -   Respetar la estructura semántica
-
-    -   Agregar los texto del mockup.
 
     -   Subir la resolución de tu trabajo a tu repositorio de Github en la subcarpeta “HTML TP2”
 
@@ -43,5 +39,3 @@ Trabajo Práctico 2
     -   [*Elemento Table*](https://developer.mozilla.org/es/docs/Web/HTML/Elemento/table)
 
     -   [*Formularios en HTML*](https://developer.mozilla.org/es/docs/HTML/HTML5/Forms_in_HTML5)
-
-    -   [*Cómo estructurar un formulario en HMTL5*](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/How_to_structure_an_HTML_form)
