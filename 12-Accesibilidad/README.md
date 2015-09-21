@@ -1,8 +1,7 @@
-**Clase 12**
+Clase 12
 -------------
 
-**Programa**
--------------
+###Programa
 
 - Accesibilidad 
 	- Visión
@@ -15,5 +14,5 @@
 		- Formularios
 	- Tablas
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/12-Accesibilidad/TP)

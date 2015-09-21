@@ -1,11 +1,10 @@
-**Clase 6**
+Clase 6
 -------------
 
-**Programa**
--------------
+###Programa
 
 - Responsive
 	- Media queries
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/06-CSS/TP)

@@ -1,13 +1,12 @@
-**Clase 5**
+Clase 5
 -------------
 
-**Programa**
--------------
+###Programa
 
 - CSS
 	- Gradientes CSS 
 	- Transiciones y Transformaciones
 	- Animaciones CSS 
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/05-CSS/TP)

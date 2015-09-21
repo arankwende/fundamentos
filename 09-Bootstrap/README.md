@@ -1,8 +1,7 @@
-**Clase 9**
+Clase 9
 -------------
 
-**Programa**
--------------
+###Programa
 
 - Bootstrap 
 	- Instalación / CDN
@@ -13,5 +12,5 @@
 	- Customizar Bootstrap
 	- Cómo pisar clases de bootstrap
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/09-Bootstrap/TP)

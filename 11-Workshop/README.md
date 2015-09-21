@@ -1,10 +1,9 @@
-**Clase 11**
+Clase 11
 -------------
 
-**Programa**
--------------
+###Programa
 
 - Workshop
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/11-Workshop/TP)

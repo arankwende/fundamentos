@@ -1,8 +1,7 @@
-**Clase 8**
+Clase 8
 -------------
 
-**Programa**
--------------
+###Programa
 
 - SASS 
 	- Definición
@@ -14,5 +13,5 @@
 	- Extensiones a partir de un elemento 
 	- Operadores matemáticos 
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/08-SASS/TP)

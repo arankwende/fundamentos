@@ -1,11 +1,10 @@
-**Clase 10**
+Clase 10
 -------------
 
-**Programa**
--------------
+###Programa
 
 - Bootstrap (jQuery)
 	- Componentes Jquery de Bootstrap
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/10-Bootstrap-jQuery/TP)

@@ -1,10 +1,9 @@
-**Clase 14**
+Clase 14
 -------------
 
-**Programa**
--------------
+###Programa
 
 -Proyecto final
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/14-Proyecto-final/TP)

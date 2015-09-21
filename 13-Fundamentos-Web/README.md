@@ -1,8 +1,7 @@
-**Clase 13**
+Clase 13
 -------------
 
-**Programa**
--------------
+###Programa
 
 - Fundamentos Web 
 	- Validación
@@ -11,5 +10,5 @@
 	- Protocolo de transferencia de archivos
 	- Servicios alojados
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/13-Fundamentos-Web/TP)

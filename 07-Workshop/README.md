@@ -1,11 +1,10 @@
-**Clase 7**
+Clase 7
 -------------
 
-**Programa**
--------------
+###Programa
 
 - Workshop
 	- Página personal
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/07-Workshop/TP)

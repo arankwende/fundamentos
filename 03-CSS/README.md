@@ -1,8 +1,7 @@
-**Clase 3**
+Clase 3
 -------------
 
-**Programa**
--------------
+###Programa
 
 - CSS
 	- Historia
@@ -14,5 +13,5 @@
 	- Recursos: Google Font, Ionicons
 	- Fondos y Bordes
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/03-CSS/TP)

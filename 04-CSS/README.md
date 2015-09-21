@@ -1,13 +1,12 @@
-**Clase 4**
+Clase 4
 -------------
 
-**Programa**
--------------
+###Programa
 
 - CSS
 	- Modelo de cajas
 	- Posicionamiento
 	- Flexbox
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/04-CSS/TP)

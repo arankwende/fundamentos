@@ -1,8 +1,7 @@
-**Clase 2**
+Clase 2
 -------------
 
-**Programa**
--------------
+###Programa
 
 - HTML
 	- Textos, Heading
@@ -11,5 +10,5 @@
 	- Tablas
 	- Formularios 
 
-**Trabajo Practico**
--------------
+###Trabajo Practico
+- [Consigna del trabajo práctico](https://github.com/CoderHouse/fundamentos/tree/master/02-HTML/TP)
